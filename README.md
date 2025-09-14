@@ -92,15 +92,6 @@ g++ -o QuizSystem main.cpp BasicClasses.cpp Teacher.cpp Student.cpp TimeQuizClas
 ./QuizSystem
 ```
 
-#### Quick Start Commands
-```bash
-# Compile the project
-g++ -o QuizSystem main.cpp BasicClasses.cpp Teacher.cpp Student.cpp TimeQuizClasses.cpp CSVManager.cpp
-
-# Run the application
-./QuizSystem
-```
-
 ### First Time Setup
 1. **Data Files**: Ensure `data/` folder contains required files:
    - `Questions.txt` - Question bank
@@ -175,15 +166,6 @@ The system supports importing student enrollment data from CSV files with the fo
 - **Error Handling**: Comprehensive input validation and error management
 
 ## Development
-
-### Building from Source
-```bash
-# Debug build
-g++ -g -o QuizSystem main.cpp BasicClasses.cpp Teacher.cpp Student.cpp TimeQuizClasses.cpp CSVManager.cpp
-
-# Release build
-g++ -O2 -o QuizSystem main.cpp BasicClasses.cpp Teacher.cpp Student.cpp TimeQuizClasses.cpp CSVManager.cpp
-```
 
 ### Code Organization
 - **Header File**: `QuizSystem.h` contains all class declarations
