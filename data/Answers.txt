@@ -1,0 +1,73 @@
+2efcde9
+What is the output of the following code
+cout << "Hello World" ;
+dabfac4
+Hello World
+
+2efcde9
+What is the square of -2
+dabfac4: 4
+
+2efcde9
+Which of the following operators is used to access the member variables and functions of an object in C++?
+dabfac4: . (dot)
+
+2efcde9
+Which of the following is NOT a valid C++ variable name?
+dabfac4
+1student
+
+b94d27b
+In C++, the size of a character variable is always 1 byte.
+dabfac4
+True
+
+2efcde9
+What is the value of a null pointer in C++?
+dabfac4
+0
+
+2efcde9
+Which of the following is not a C++ data type?
+dabfac4
+real
+
+2efcde9
+Which of the following is not a C++ loop statement?
+dabfac4
+switch
+
+b94d27b
+The binary system uses two digits: 0 and 1
+dabfac4
+True
+
+2efcde9
+Which of the following is a C++ keyword used to allocate memory dynamically?
+dabfac4
+new
+
+b94d27b
+The "Ctrl + C" keyboard shortcut is used to paste text
+dabfac4
+False
+
+b94d27b
+A compiler is a program that translates code written in a high-level language into machine language. (True/False)
+dabfac4
+True
+
+b94d27b
+The sizeof() function returns the size of a variable in C.
+dabfac4
+True
+
+2efcde9
+What is the default access specifier for a class in C++?
+dabfac4
+Private
+
+2efcde9
+Which of the following is a preprocessor directive in C++?
+dabfac4
+include

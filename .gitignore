@@ -1,0 +1,104 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Visual Studio files
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Code::Blocks files
+*.cbp
+*.layout
+*.depend
+
+# Dev-C++ files
+*.dev
+
+# Qt files
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+*.moc
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+*.qm
+*.prl
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+
+# Temporary files
+*.tmp
+*.temp
+*~
+*.swp
+*.swo
+*.bak
+*.backup
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project specific - exclude generated data files
+# Keep the folder structure but exclude generated content
+students/*.txt
+teachers/*.txt
+quizzes/*.txt
+results/*.txt
+attendance/*.txt
+data/*.txt
+
+# But keep the CSV file and essential data
+!data/Course\ Registration\ Data\ -\ Sheet1.csv
+!data/CourseOffering.txt
+!data/Questions.txt
+!data/Answers.txt
+
+# Keep folder structure
+!students/.gitkeep
+!teachers/.gitkeep
+!quizzes/.gitkeep
+!results/.gitkeep
+!attendance/.gitkeep
+!data/.gitkeep

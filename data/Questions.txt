@@ -1,0 +1,131 @@
+a5380ee
+General questions
+
+2efcde9
+What is the output of the following code
+cout << "Hello World" ;
+option: Hello
+option: World
+option: Hello World
+option: None of the above
+
+b94d27b
+Pakistan came into being on 14 Aug 1947
+option: True
+option: False
+
+2efcde9
+What is the square of -2
+option: 4
+option: -4
+option: 2
+option: -2
+
+88f7ace
+Write 100 words essay on one of the following:
+1. Recent successes of Pakistan's cricket team
+2. Role/influence of ChatGPT in the teaching/learning process
+
+a5380ee
+C++ programming
+
+2efcde9
+Which of the following operators is used to access the member variables and functions of an object in C++?
+option: * (asterisk)
+option: -> (arrow)
+option: . (dot)
+option: :: (scope resolution)
+
+2efcde9
+Which of the following is NOT a valid C++ variable name?
+option: num_students
+option: _score
+option: 1student
+option: totalScore
+
+b94d27b
+In C++, the size of a character variable is always 1 byte.
+option: True
+option: False
+
+b94d27b
+In C++, the operator ++ can be used with both integer and floating-point data types.
+option: True
+option: False
+
+a5380ee
+Programming pointers
+
+2efcde9
+What is the value of a null pointer in C++?
+option: 0
+option: 1
+option: -1
+option: undefined
+
+88f7ace
+Explain the use of this pointer in c++ programming
+
+2efcde9
+Which of the following is not a C++ data type?
+option: int
+option: float
+option: real
+option: double
+
+88f7ace
+Write a C++ program to swap two numbers using a temporary variable.
+
+2efcde9
+Which of the following is not a C++ loop statement?
+option: while
+option: for
+option: switch
+option: do-while
+
+b94d27b
+The binary system uses two digits: 0 and 1
+option: True
+option: False
+
+2efcde9
+Which of the following is a C++ keyword used to allocate memory dynamically?
+option: new
+option: dynamic
+option: malloc
+option: allocate
+
+b94d27b
+The "Ctrl + C" keyboard shortcut is used to paste text
+option: True
+option: False
+
+88f7ace
+What is a constructor in C++?
+
+88f7ace
+What is the purpose of the "cin.ignore()" function in C++?
+
+b94d27b
+A compiler is a program that translates code written in a high-level language into machine language. (True/False)
+option: True
+option: False
+
+b94d27b
+The sizeof() function returns the size of a variable in C.
+option: True
+option: False
+
+2efcde9
+What is the default access specifier for a class in C++?
+option: Public
+option: Private
+option: Protected
+option: None of the above
+
+2efcde9
+Which of the following is a preprocessor directive in C++?
+option: if
+option: else
+option: while
+option: include
