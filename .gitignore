@@ -24,33 +24,33 @@
 *.sln.docstates
 .vs/
 
+# IDE files (if using these IDEs)
 # Code::Blocks files
-*.cbp
-*.layout
-*.depend
+# *.cbp
+# *.layout
+# *.depend
 
 # Dev-C++ files
-*.dev
+# *.dev
 
 # Qt files
-*.pro.user
-*.pro.user.*
-*.qbs.user
-*.qbs.user.*
-*.moc
-moc_*.cpp
-moc_*.h
-qrc_*.cpp
-ui_*.h
-*.qm
-*.prl
+# *.pro.user
+# *.pro.user.*
+# *.qbs.user
+# *.qbs.user.*
+# *.moc
+# moc_*.cpp
+# moc_*.h
+# qrc_*.cpp
+# ui_*.h
+# *.qm
+# *.prl
 
 # CMake files
 CMakeCache.txt
 CMakeFiles/
 CMakeScripts/
 Testing/
-Makefile
 cmake_install.cmake
 install_manifest.txt
 compile_commands.json
